@@ -1,0 +1,81 @@
+{
+    "success": true,
+    "errCode": "",
+    "data": [
+        {
+            "_id": "1b4892aaa038ce320055de1f",
+            "EmpCode": 111,
+            "Name": "Rahul Dhiman",
+            "Dept": "PHP/PWA",
+            "SalaryBeforeJoining": 3000,
+            "ExperienceBeforeJoining": "3",
+            "DOJ": "2018-09-08T18:30:00.000Z",
+            "TotalExperience": "5",
+            "Position": "sse",
+            "Cycle": "june",
+            "Salary": 4000,
+            "Photo": "image.png",
+            "__v": 0
+        },
+        {
+            "_id": "2b4892aaa038ce320055de1f",
+            "EmpCode": 112,
+            "Name": "Amit",
+            "Dept": "Node",
+            "SalaryBeforeJoining": 3000,
+            "ExperienceBeforeJoining": "3",
+            "DOJ": "2018-09-08T18:30:00.000Z",
+            "TotalExperience": "5",
+            "Position": "sse",
+            "Cycle": "june",
+            "Salary": 4000,
+            "Photo": "image.png",
+            "__v": 0
+        },
+        {
+            "_id": "3b4892aaa038ce320055de1f",
+            "EmpCode": 113,
+            "Name": "Jasmine",
+            "Dept": "UI",
+            "SalaryBeforeJoining": 3000,
+            "ExperienceBeforeJoining": "3",
+            "DOJ": "2018-09-08T18:30:00.000Z",
+            "TotalExperience": "5",
+            "Position": "sse",
+            "Cycle": "june",
+            "Salary": 4000,
+            "Photo": "image.png",
+            "__v": 0
+        },
+        {
+            "_id": "4b4892aaa038ce320055de1f",
+            "EmpCode": 114,
+            "Name": "Rishab",
+            "Dept": "PWA",
+            "SalaryBeforeJoining": 3000,
+            "ExperienceBeforeJoining": "3",
+            "DOJ": "2018-09-08T18:30:00.000Z",
+            "TotalExperience": "5",
+            "Position": "sse",
+            "Cycle": "june",
+            "Salary": 4000,
+            "Photo": "image.png",
+            "__v": 0
+        },
+        {
+            "_id": "5b4892aaa038ce320055de1f",
+            "EmpCode": 115,
+            "Name": "John",
+            "Dept": ".Net",
+            "SalaryBeforeJoining": 3000,
+            "ExperienceBeforeJoining": "3",
+            "DOJ": "2018-09-08T18:30:00.000Z",
+            "TotalExperience": "5",
+            "Position": "sse",
+            "Cycle": "june",
+            "Salary": 4000,
+            "Photo": "image.png",
+            "__v": 0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+#create-post {
+  z-index: 1001;
+  position: fixed;
+  width: 100%;
+  min-height: 100vh;
+  overflow-y: scroll;
+  bottom: 0;
+  top: 56px;
+  background: white;
+  text-align: center;
+  display: none;
+}
+
+.main-image {
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
+
+.floating-button {
+  z-index: 1000;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 30px;
+}
+
+.input-section {
+  display: block;
+  margin: 10px auto;
+}
+
+.shared-moment-card.mdl-card {
+  margin: 10px auto;
+}
+
+.emp-content {
+  margin: 5px auto;
+  text-align: center;
+  width: 80%;
+  max-width: 500px;
+  padding: 2px;
+  -webkit-box-shadow: 2px 2px 1px #ccc;
+  -moz-box-shadow: 2px 2px 1px #ccc;
+  box-shadow: 2px 2px 1px #ccc;
+  animation: fade-slide 1.5s forwards;
+}
+
+.emp-content-even {
+  background-color: #f5f5f2;
+}
+
+.emp-content-odd {
+  background-color: #faface;  
+}
+.emp-content p {
+  font-weight: bold;
+}
