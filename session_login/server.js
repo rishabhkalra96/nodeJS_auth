@@ -27,7 +27,10 @@ app.set('view engine', 'ejs'); // set up ejs for templating
 // required for passport
 app.use(session(
     { secret: 'ilovescotchscotchyscotchscotch',
-      cookie: {_expires: 5000}})); // session secret, max session time to 5sec
+      cookie: {_expires: 5000},
+    rolling: true
+    }
+)); // session secret, max session time to 5sec
 app.use(passport.initialize());
 app.use(passport.session()); // persistent login sessions
 app.use(flash()); // use connect-flash for flash messages stored in session
